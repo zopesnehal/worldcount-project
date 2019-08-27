@@ -9,4 +9,4 @@ def homepage (request):
 
 def eggs (request):
 
-	return HttpResponse('eggs is greats')
+	return HttpResponse('eggs is greats')  
